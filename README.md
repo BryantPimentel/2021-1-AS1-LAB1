@@ -1,4 +1,4 @@
-# Laboratorio #1
+# Laboratorio #1 UML sobre las compras de boletos de los buses extraurbanos
 ## Datos Personales 📄
 **Facultad de Ingeniería en sistemas**
 
@@ -10,7 +10,6 @@
 
 **Carne:** 1290-18-5715
 
-# UML sobre las compras de boletos de los buses extraurbanos
 
 ### Instalación 🔧
 _Primero tenemos que hunicarnos en donde deseamos descargar el proyecto ya situados dentro de la carpeta que deseamos tener el proyecto
